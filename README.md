@@ -4,8 +4,6 @@ https://actions.zapier.com/docs/platform/gpt
 
 https://zapier.com/blog/gpt-assistant/
 
-**[Everyone take this Coursera Course: ChatGPT & Zapier: Agentic AI for Everyone Course](https://www.coursera.org/learn/agentic-ai-chatgpt-zapier)**
-
 ### Module 1: Agentic AI Concepts
 - **Introduction to Agentic AI**: Foundational concepts and potential applications.
 - **Capabilities and Tools**: Integrating AI tools for enhanced capabilities.
